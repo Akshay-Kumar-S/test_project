@@ -1,0 +1,17 @@
+/Users/akshaykumar/dotnetProjects/akshay/bin/Release/netcoreapp2.2/appsettings.Development.json
+/Users/akshaykumar/dotnetProjects/akshay/bin/Release/netcoreapp2.2/appsettings.json
+/Users/akshaykumar/dotnetProjects/akshay/bin/Release/netcoreapp2.2/Properties/launchSettings.json
+/Users/akshaykumar/dotnetProjects/akshay/bin/Release/netcoreapp2.2/akshay.deps.json
+/Users/akshaykumar/dotnetProjects/akshay/bin/Release/netcoreapp2.2/akshay.runtimeconfig.json
+/Users/akshaykumar/dotnetProjects/akshay/bin/Release/netcoreapp2.2/akshay.runtimeconfig.dev.json
+/Users/akshaykumar/dotnetProjects/akshay/bin/Release/netcoreapp2.2/akshay.dll
+/Users/akshaykumar/dotnetProjects/akshay/bin/Release/netcoreapp2.2/akshay.pdb
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.RazorAssemblyInfo.cache
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.RazorAssemblyInfo.cs
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.AssemblyInfoInputs.cache
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.AssemblyInfo.cs
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.RazorTargetAssemblyInfo.cache
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.dll
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.pdb
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.genruntimeconfig.cache
+/Users/akshaykumar/dotnetProjects/akshay/obj/Release/netcoreapp2.2/akshay.csprojAssemblyReference.cache
